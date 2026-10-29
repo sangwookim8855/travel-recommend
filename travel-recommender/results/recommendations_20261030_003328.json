@@ -1,0 +1,18 @@
+{
+  "input_date": "2026-05-15",
+  "recommendation": {
+    "recommended_city": "강릉",
+    "weather": "계절에 맞는 온화한 날씨",
+    "events": [
+      "지역 문화 행사"
+    ],
+    "reason": "LLM 파싱 에러로 인한 기본 추천 지역입니다."
+  },
+  "restaurants": [],
+  "errors": [
+    "LLM 1차 추천 JSON 파싱/호출 실패 (시도 2/2): Error code: 401 - Incorrect API key provided: sk-cody-****-.... You can find your API key at https://platform.openai.com/account/api-keys.",
+    "카카오 지도 API 호출 실패 (상태 코드: 403)",
+    "최종 리포트 생성 LLM 호출 오류: Error code: 401 - Incorrect API key provided: sk-cody-****-.... You can find your API key at https://platform.openai.com/account/api-keys."
+  ],
+  "created_at": "2026-10-30T00:33:28.431230"
+}
